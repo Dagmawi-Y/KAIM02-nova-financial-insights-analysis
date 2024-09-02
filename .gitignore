@@ -1,0 +1,105 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.log
+*.pot
+*.pyc
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pytest cache
+.cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Local environment variables
+.env.local
+
+# macOS
+.DS_Store
+
+# mypy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+*.cover
+.hypothesis/
+
+# Sphinx documentation
+docs/_build/
+
+# pytest
+.pytest_cache/
+
+# Unit test / coverage reports
+*.cover
+*.py,cover
+
+# Flask instance folder
+instance/
+
+# Flask cache files
+flask_session/
+
+Technical-Content
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# Pyre type checker
+.pyre/
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints
+
+# Local AWS credentials
+*.pem
+
+# Logs
+*.log
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
