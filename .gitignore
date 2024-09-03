@@ -77,6 +77,8 @@ flask_session/
 
 Technical-Content
 
+data
+
 # Scrapy stuff:
 .scrapy
 
